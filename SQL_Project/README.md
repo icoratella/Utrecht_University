@@ -7,4 +7,4 @@ In this complementary database-oriented project, I designed and implemented a co
 Below is the final relational database schema that I designed and implemented:
 ![ue](https://github.com/icoratella/Utrecht_University/blob/main/SQL_Project/EER_diagram.png)
 
-This repository includes conceptual and relational models, a Jupyter Notebook that demonstrates how to access and manipulate data directly from the database, and all the scripts used to transform the data for loading into MySQL.
+This repository contains a comprehensive report detailing my work. It also includes conceptual and relational models, a Jupyter Notebook that demonstrates how to access and manipulate data directly from the database, the SQL queries used to create, load, and manage the data structure, and all scripts employed to transform the data for MySQL loading.
